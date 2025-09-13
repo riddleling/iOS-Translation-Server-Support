@@ -122,3 +122,5 @@ Translation Server transforms your iOS device into a local translation API serve
     "da": "Danish",
     "fi": "Finnish"
     ```
+
+7. To ensure the app runs continuously without interruption, please enable iOS [Guided Access](https://support.apple.com/en-us/111795) mode and keep the screen on.

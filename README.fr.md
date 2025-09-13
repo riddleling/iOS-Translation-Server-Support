@@ -122,3 +122,5 @@ Le Serveur de Traduction transforme votre appareil iOS en serveur d'API de tradu
     "da": "Danois",
     "fi": "Finnois"
     ```
+
+7. Pour garantir que l'application fonctionne en continu sans interruption, veuillez activer le mode [Accès guidé](https://support.apple.com/fr-fr/111795) iOS et maintenir l'écran allumé.
