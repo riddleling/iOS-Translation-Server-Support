@@ -2,9 +2,11 @@
 
 Translation Server transforms your iOS device into a local translation API server. Based on iOS's native Translation framework, this app provides completely offline translation services with support for automatic language detection and multilingual translation pairs. Through a clean Web API interface, developers and users can easily integrate high-quality translation capabilities into any project while ensuring data privacy and security.
 
+**English** | [日本語](README.ja.md) | [繁體中文](README.zh-TW.md) | [简体中文](README.zh-CN.md) | [한국어](README.ko.md) | [Français](README.fr.md)
+
 ![image](image.jpg)
 
-## Features:
+## Features
 
 - Automatic source language detection
 - Support for multiple translation pairs
@@ -13,7 +15,7 @@ Translation Server transforms your iOS device into a local translation API serve
 
 ## How to Use
 
-**Translate via translate API**
+**Translate via `translate` API**
 
 1. Download the required language model in the app.
 2. Automatically detect the source language and specify the target language:
@@ -63,7 +65,7 @@ Translation Server transforms your iOS device into a local translation API serve
         "availability":"installed",
     }
     ```
-    The "translated" field contains the translated text content.
+    The `translated` field contains the translated text content.
 
 6. Language list:
     ```
