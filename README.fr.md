@@ -2,6 +2,8 @@
 
 Le Serveur de Traduction transforme votre appareil iOS en serveur d'API de traduction local. Basé sur le framework de traduction natif d'iOS, cette application fournit des services de traduction complètement hors ligne avec prise en charge de la détection automatique de langue et des paires de traduction multilingues. Grâce à une interface Web API claire, les développeurs et utilisateurs peuvent facilement intégrer des capacités de traduction de haute qualité dans n'importe quel projet tout en garantissant la confidentialité et la sécurité des données.
 
+[Télécharger depuis l'App Store](https://apps.apple.com/us/app/translation-server/id6751807201)
+
 [English](README.md) | [日本語](README.ja.md) | [繁體中文](README.zh-TW.md) | [简体中文](README.zh-CN.md) | [한국어](README.ko.md) | **Français**
 
 ![image](image.jpg)

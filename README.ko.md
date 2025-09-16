@@ -2,6 +2,8 @@
 
 번역 서버는 iOS 기기를 로컬 번역 API 서버로 변환합니다. iOS 네이티브 번역 프레임워크를 기반으로 하여, 이 앱은 완전한 오프라인 번역 서비스를 제공하며 자동 언어 감지 및 다국어 번역 쌍을 지원합니다. 깔끔한 Web API 인터페이스를 통해 개발자와 사용자는 고품질 번역 기능을 모든 프로젝트에 쉽게 통합할 수 있으며, 동시에 데이터 개인정보 보호와 보안을 보장합니다.
 
+[App Store에서 다운로드](https://apps.apple.com/us/app/translation-server/id6751807201)
+
 [English](README.md) | [日本語](README.ja.md) | [繁體中文](README.zh-TW.md) | [简体中文](README.zh-CN.md) | **한국어** | [Français](README.fr.md)
 
 ![image](image.jpg)

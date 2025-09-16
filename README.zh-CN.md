@@ -2,6 +2,8 @@
 
 翻译服务器将您的 iOS 设备转变为本地翻译 API 服务器。基于 iOS 原生 Translation 框架，本应用程序提供完全离线的翻译服务，支持自动语言检测和多语言对翻译。通过简洁的 Web API 接口，开发者和用户可以轻松将高质量的翻译功能集成到任何项目中，同时确保数据隐私和安全性。
 
+[从 App Store 下载](https://apps.apple.com/us/app/translation-server/id6751807201)
+
 [English](README.md) | [日本語](README.ja.md) | [繁體中文](README.zh-TW.md) | **简体中文** | [한국어](README.ko.md) | [Français](README.fr.md)
 
 ![image](image.jpg)

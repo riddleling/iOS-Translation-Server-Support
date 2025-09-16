@@ -2,6 +2,8 @@
 
 翻訳サーバーは、あなたのiOSデバイスをローカル翻訳APIサーバーに変身させます。iOSのネイティブ翻訳フレームワークをベースに、このアプリは完全にオフラインの翻訳サービスを提供し、自動言語検出と多言語ペア翻訳をサポートします。クリーンなWeb APIインターフェースを通じて、開発者とユーザーは高品質な翻訳機能を任意のプロジェクトに簡単に統合でき、同時にデータプライバシーとセキュリティを確保します。
 
+[App Store からダウンロード](https://apps.apple.com/us/app/translation-server/id6751807201)
+
 [English](README.md) | **日本語** | [繁體中文](README.zh-TW.md) | [简体中文](README.zh-CN.md) | [한국어](README.ko.md) | [Français](README.fr.md)
 
 ![image](image.jpg)
